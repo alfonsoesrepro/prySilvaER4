@@ -19,6 +19,8 @@ namespace prySilvaER4
             dgvRegistro.Rows.Add("Javier");
             dgvRegistro.Rows.Add("Gonzalo");
             dgvRegistro.Rows.Add("Alberto");
+
+
         }
     }
 }
